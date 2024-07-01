@@ -1,0 +1,1 @@
+Repositório dedicado à inserção dos cadernos em python utilizados no processo de extract, transform e load para elaboração do StoryMap no arcGis online para o projeto da UC de Geoanalítica do MCDE 23023/2024.
